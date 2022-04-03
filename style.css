@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.desc{
+    font-size: 32px;
+    padding: 20px;
+}
+.photo{
+    margin: 20px;
+    padding: 20px;
+}
+img{
+    width: 40%;
+    height: 500px;
+
+}
+.button-off,.intensity1,.intensity2{
+    font-size: 24px;
+    color: chocolate;
+    background-color: aqua;
+    margin: 24px;
+    padding: 20px;
+    border-radius: 50px;
+}
